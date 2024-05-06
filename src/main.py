@@ -12,14 +12,7 @@ Since the datasets are too large, over 100MB ( maximum file size in openreview),
 in https://github.com/songjiang0909/Causal-Inference-on-Networked-Data
 
 Our code is based on https://github.com/songjiang0909/Causal-Inference-on-Networked-Data
-Thank them for their code
-reference:
-@inproceedings{netest2022,
-  title={Estimating Causal Effects on Networked Observational Data via Representation Learning},
-  author={Song Jiang, Yizhou Sun},
-  booktitle={Proceedings of the 31st ACM International Conference on Information & Knowledge Management},
-  year={2022}
-}
+Thank them for their code!
 '''
 
 
