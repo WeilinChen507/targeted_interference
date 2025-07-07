@@ -3,6 +3,16 @@
 official code of Doubly Robust Causal Effect Estimation on Networked Data via
 Targeted Learning [[paper]](https://icml.cc/virtual/2024/oral/35570)
 
+# run
+```
+./sh run.sh 1
+```
+where 1 means using dataset BC, and 2, 3, 4, 5, 6 mean using BC_hete, Flickr, Flickr_hete, BC_hete_z, Flickr_hete_z, respectively.
+And the __suggested hyperparameters__ are included in the file run.sh.
+
+# dataset
+Please find the dataset in [[NetEst]](https://github.com/songjiang0909/Causal-Inference-on-Networked-Data). Thanks for their datasets!
+
 # Cite this paper
 
 Chen, W., Cai, R., Yang, Z., Qiao, J., Yan, Y., Li, Z. &amp; Hao, Z.. (2024). Doubly Robust Causal Effect Estimation under Networked Interference via Targeted Learning. <i>Proceedings of the 41st International Conference on Machine Learning</i>, in <i>Proceedings of Machine Learning Research</i> 235:6457-6485
